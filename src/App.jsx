@@ -119,7 +119,7 @@ function App() {
               ? "💖 Ready for your surprise! 💖"
               : "✨ A special celebration awaits you at midnight... ✨"}
           </h2>
-          <p className="teaser-hint">Something magical is about to unfold 💫</p>
+          <p className="teaser-hint">Madam wait to karna padega aapko 9 tak 😁</p>
         </section>
 
         <button
